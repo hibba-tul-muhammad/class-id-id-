@@ -1,0 +1,28 @@
+.bricolage-grotesque-customfont {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 5;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+.part1 {
+  font-family: "Bricolage Grotesque", sans-serif;
+}
+.part2{
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.part3{
+  font-family:fantasy
+}
+.little {
+  width:100px;
+}
+.big{
+  width:700px;
+}
